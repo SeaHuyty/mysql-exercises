@@ -1,0 +1,15 @@
+# 📚 Database Course Exercises
+
+This repository contains a collection of exercises and examples completed during a university-level database course. It covers a wide range of topics.
+
+## 🎓 Purpose
+
+This repository serves both as a personal archive and a resource for others who want to learn or revise core database concepts. It reflects my learning journey and hands-on practice with relational database design and SQL.
+
+## Contributing
+
+Feel free to fork this repo, add your own exercises, and submit pull requests. Sharing knowledge helps everyone grow!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
