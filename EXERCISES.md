@@ -4,9 +4,7 @@ Welcome to the exercises archive for my database course. Below is a guide to eac
 
 ### 1. Entity Relationship Model
 
-* **Exercise 1**
-  The company database keeps track of a company's employees, departments, and projects.
-  *File: `create_table.sql`*
+* **Exercise 1**: The company database keeps track of a company's employees, departments, and projects. [See Exercise](Entity-Relationship-Model/Company-Database/image.png)
 
 * **Add Constraints**
   Learn how to add primary, foreign, and unique constraints to your database schema.
