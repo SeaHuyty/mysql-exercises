@@ -98,7 +98,6 @@ Normalization exercises help you break down complex data structures into more ma
          (3 , Sam , Brown , 2000-09-10 , M , Senior , ME , 789 Pine St , 555-6543 , 555-3210 , Chicago , IL , 60601 , Mechanical Engineering , Business) 
          (4 , Emily , Davis , 2003-01-05 , F , Sophomore , BIO , 321 Cedar St, 555-2222 , 555-8888 , Houston , TX , 77001 , Biology , Chemistry) 
          (5 , Michael , Johnson , 2001-12-20 , M , Senior , CS , 654 Birch St , 555-4444 , 555-6666 , Seattle , WA , 98101 , Computer Science , Statistics)
-
   * **2**. Insert five departments into the DEPARTMENT table:
     ```
          (Computer Science, CS, Engineering, 101, 555-1111)
@@ -106,7 +105,6 @@ Normalization exercises help you break down complex data structures into more ma
          (Mechanical Engineering, ME, Engineering, 103, 555-3333) 
          (Biology, BIO, Science, 104, 555-4444) 
          (Physics, PHYS, Science, 105, 555-5555) 
-
   * **3**. Insert five courses into the COURSE table:
     ```
          (101, Database Systems, Intro to Databases, 3, Undergrad, CS) 
@@ -114,7 +112,6 @@ Normalization exercises help you break down complex data structures into more ma
          (103, Thermodynamics, Heat Transfer Principles, 3, Undergrad, ME) 
          (104, Genetics, Introduction to Genetics, 3, Undergrad, BIO) 
          (105, Quantum Mechanics, Quantum Theory Basics, 3, Undergrad, PHYS)
-
   * **4**. Insert five sections into the SECTION table:
     ```
        (1, 2024, Spring, Dr. Smith, 101) 
@@ -122,16 +119,31 @@ Normalization exercises help you break down complex data structures into more ma
        (3, 2025, Spring, Dr. Lee, 103) 
        (4, 2025, Fall, Dr. Miller, 104) 
        (5, 2025, Spring, Dr. Brown, 105)
-
-  * **3**. Insert value courses into GRADE REPORT table:
+  * **5**. Insert value courses into GRADE REPORT table:
     ```
        (A , 4.0) 
        (B+ , 3.5) 
        (B , 3.0) 
-       (C , 2.5) 
-
-
-  * [Solution](Data-Definition-Language/Sale-Management-System-Schema/solution.sql)
+       (C , 2.5)
+  * **6**. Insert value grade records into the STUDENT GRADES table:
+    ``` 
+       (1, 101, 1, Spring, 2024, A)  
+       (2, 102, 2, Fall, 2024, B+)  
+       (3, 103, 3, Spring, 2025, B)  
+       (4, 104, 4, Fall, 2025, A-)  
+       (5, 105, 5, Spring, 2025, C+)
+  * **6**. Change the phone number of student with SID = 1 to ’555-1111’.
+  * **6**. Update the city of the student with SID = 3 to ’Boston’.
+  * **6**. Rename the course with CNumber = 101 to ’Advanced Databases’. 
+  * **6**. Update the instructor of the section with SecNum = 2 to ’Dr. Miller’.
+  * **6**. Change the grade of student 4 in course 104 to ’A’. 
+  * **6**. Remove the student with SID = 5 from the STUDENT table. 
+  * **6**. Delete the course with CNumber = 105 from the COURSE table.
+  * **6**. Remove the section with SecNum = 5 from the SECTION table. 
+  * **6**. Delete the grade record of student 2 in course 102 from the STUDENT GRADES table. 
+  * **6**. Remove the department ’Electrical Engineering’ from the DEPARTMENT table.
+  
+  [Solution](Data-Definition-Language/Sale-Management-System-Schema/solution.sql)
 
 ### 6. Transactions
 
