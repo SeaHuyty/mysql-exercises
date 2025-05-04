@@ -132,16 +132,16 @@ Normalization exercises help you break down complex data structures into more ma
        (3, 103, 3, Spring, 2025, B)  
        (4, 104, 4, Fall, 2025, A-)  
        (5, 105, 5, Spring, 2025, C+)
-  * **6**. Change the phone number of student with SID = 1 to ’555-1111’.
-  * **6**. Update the city of the student with SID = 3 to ’Boston’.
-  * **6**. Rename the course with CNumber = 101 to ’Advanced Databases’. 
-  * **6**. Update the instructor of the section with SecNum = 2 to ’Dr. Miller’.
-  * **6**. Change the grade of student 4 in course 104 to ’A’. 
-  * **6**. Remove the student with SID = 5 from the STUDENT table. 
-  * **6**. Delete the course with CNumber = 105 from the COURSE table.
-  * **6**. Remove the section with SecNum = 5 from the SECTION table. 
-  * **6**. Delete the grade record of student 2 in course 102 from the STUDENT GRADES table. 
-  * **6**. Remove the department ’Electrical Engineering’ from the DEPARTMENT table.
+  * **7**. Change the phone number of student with SID = 1 to ’555-1111’.
+  * **8**. Update the city of the student with SID = 3 to ’Boston’.
+  * **9**. Rename the course with CNumber = 101 to ’Advanced Databases’. 
+  * **10**. Update the instructor of the section with SecNum = 2 to ’Dr. Miller’.
+  * **11**. Change the grade of student 4 in course 104 to ’A’. 
+  * **12**. Remove the student with SID = 5 from the STUDENT table. 
+  * **13**. Delete the course with CNumber = 105 from the COURSE table.
+  * **14**. Remove the section with SecNum = 5 from the SECTION table. 
+  * **15**. Delete the grade record of student 2 in course 102 from the STUDENT GRADES table. 
+  * **16**. Remove the department ’Electrical Engineering’ from the DEPARTMENT table.
   
   [Solution](Data-Definition-Language/Sale-Management-System-Schema/solution.sql)
 
