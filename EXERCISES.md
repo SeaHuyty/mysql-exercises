@@ -132,7 +132,7 @@ Normalization exercises help you break down complex data structures into more ma
        (3, 103, 3, Spring, 2025, B)  
        (4, 104, 4, Fall, 2025, A-)  
        (5, 105, 5, Spring, 2025, C+)
-  Click here to see the [Solution](Data-Manipulation-Language/Solution/insertion.sql)
+  Click here to view the solution for the insertion above: [Solution](Data-Manipulation-Language/Solution/insertion.sql)
   * **7**. Change the phone number of student with SID = 1 to ’555-1111’.
     * [Solution](Data-Manipulation-Language/Solution/exercise7.sql)
   * **8**. Update the city of the student with SID = 3 to ’Boston’.
