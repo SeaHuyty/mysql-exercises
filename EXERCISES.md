@@ -90,7 +90,7 @@ Normalization exercises help you break down complex data structures into more ma
 
 * **Exercise 1: University Database**
   
-  Download this [University Database](Data-Manipulation-Language/universityDB.sql) to Begin the Exercise.
+  Download this [University Database](Data-Manipulation-Language/universityDB.sql) to begin the Exercise.
   * **1**. Insert five students into the STUDENT table:
     ```
          (1 , John , Doe , 2001-03-15 , M , Senior , CS , 123 Maple St , 555-1234 , 555-5678 , New York , NY , 10001 , Computer Science , Mathematics)
@@ -154,6 +154,11 @@ Normalization exercises help you break down complex data structures into more ma
   * **16**. Remove the department ’Electrical Engineering’ from the DEPARTMENT table.
     * [Solution](Data-Manipulation-Language/Solution/exercise16.sql)
 
+* **Exercise 2: HR Database**
+
+  Download this [University Database](Data-Manipulation-Language/universityDB.sql) to begin the Exercise.
+  * [See Exercise](Data-Definition-Language/Company-Schema/image.png)
+  * [Solution](Data-Definition-Language/Company-Schema/solution.sql)
 ---
 
 ### 6. Transactions
