@@ -156,9 +156,16 @@ Normalization exercises help you break down complex data structures into more ma
 
 * **Exercise 2: HR Database**
 
-  Download this [University Database](Data-Manipulation-Language/universityDB.sql) to begin the Exercise.
+  Please refer to this [University Database](Data-Manipulation-Language/universityDB.sql) file to begin the Exercise.
   * [See Exercise](Data-Definition-Language/Company-Schema/image.png)
   * [Solution](Data-Definition-Language/Company-Schema/solution.sql)
+
+* **Exercise 3: Airline Database**
+
+  Please refer to this [University Database](Data-Manipulation-Language/universityDB.sql) file to begin the Exercise.
+  * [See Exercise](Data-Definition-Language/Company-Schema/image.png)
+  * [Solution](Data-Definition-Language/Company-Schema/solution.sql)
+    
 ---
 
 ### 6. Transactions
