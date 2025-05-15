@@ -96,50 +96,14 @@ Normalization exercises help you break down complex data structures into more ma
 * **Exercise 2: HR Database**
 
   Please refer to the file below to begin the Exercise.
-  * [HR.md](Data-Manipulation-Language/University-Database/UNIVERSITYDATABASE.md)
+  * [HR.md](Data-Manipulation-Language/HR-Database/HRDATABASE.md)
 
 * **Exercise 3: Airline Database**
 
   Please refer to the file below to begin the Exercise.
-  * [AIRLINE.md](Data-Manipulation-Language/University-Database/UNIVERSITYDATABASE.md)
+  * [AIRLINE.md](Data-Manipulation-Language/Airline-Database/AIRLINEDATABASE.md)
     
 ---
-
-### 6. Transactions
-
-Learn how to work with database transactions and concurrency control.
-
-* **ACID Transactions**
-  This exercise covers writing SQL statements for managing ACID properties in transactions.
-  *File: `transactions.sql`*
-
-* **Transaction Control**
-  Practice using `COMMIT`, `ROLLBACK`, and `SAVEPOINT` to manage your database transactions.
-  *File: `transaction_control.sql`*
-
-### 7. Joins and Subqueries
-
-This section focuses on combining data from multiple tables using joins and subqueries.
-
-* **Inner and Outer Joins**
-  Learn how to perform inner, left, right, and full outer joins.
-  *File: `joins.sql`*
-
-* **Subqueries**
-  Practice writing subqueries for filtering and nested queries.
-  *File: `subqueries.sql`*
-
-### 8. Indexes and Views
-
-Improve the performance and readability of your database with indexes and views.
-
-* **Creating Indexes**
-  In this exercise, you’ll learn how to create and use indexes to optimize query performance.
-  *File: `indexes.sql`*
-
-* **Using Views**
-  Practice creating and using views to simplify complex queries.
-  *File: `views.sql`*
 
 ## Additional Notes
 
