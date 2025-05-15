@@ -1,4 +1,4 @@
--- Retrieve department Id and department name for each employee.
+-- 12. Retrieve department Id and department name for each employee.
 SELECT 
     employees.EMPLOYEE_ID,
     CONCAT(employees.FIRST_NAME, ' ', employees.LAST_NAME) AS FULL_NAME,

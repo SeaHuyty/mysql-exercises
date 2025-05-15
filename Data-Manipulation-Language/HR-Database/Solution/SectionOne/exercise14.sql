@@ -1,4 +1,4 @@
--- Retrieve region id and region name for each country.
+-- 14. Retrieve region id and region name for each country.
 SELECT
 	country.COUNTRY_ID,
     country.COUNTRY_NAME,

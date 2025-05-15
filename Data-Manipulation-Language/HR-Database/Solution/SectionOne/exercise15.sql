@@ -1,4 +1,4 @@
--- Retrieve country name for each department.
+-- 15. Retrieve country name for each department.
 SELECT 
 	department.DEPARTMENT_ID,
     department.DEPARTMENT_NAME,

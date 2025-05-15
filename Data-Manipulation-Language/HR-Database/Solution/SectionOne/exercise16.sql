@@ -1,4 +1,4 @@
--- Retrieve job id and job name for each employee.
+-- 16. Retrieve job id and job name for each employee.
 SELECT
 	employee.EMPLOYEE_ID,
 	CONCAT(employee.FIRST_NAME, ' ', employee.LAST_NAME) AS FULL_NAME,

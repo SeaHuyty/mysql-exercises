@@ -1,4 +1,4 @@
--- Retrieve the number of employees who can earn a commission.
+-- 9. Retrieve the number of employees who can earn a commission.
 SELECT 
 	COUNT(*) AS employees_with_commission 
 FROM employees 
