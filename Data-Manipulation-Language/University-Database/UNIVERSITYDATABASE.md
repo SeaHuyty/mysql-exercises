@@ -43,7 +43,7 @@
        (5, 105, 5, Spring, 2025, C+)
   Click here to view the solution for the insertion above: [Solution](Data-Manipulation-Language/University-Database/Solution)
   * **7**. Change the phone number of student with SID = 1 to ’555-1111’.
-    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise7.sql)
+    * [Solution](./Solution/exercise7.sql)
   * **8**. Update the city of the student with SID = 3 to ’Boston’.
     * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise8.sql)
   * **9**. Rename the course with CNumber = 101 to ’Advanced Databases’.
