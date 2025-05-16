@@ -41,24 +41,24 @@
        (3, 103, 3, Spring, 2025, B)  
        (4, 104, 4, Fall, 2025, A-)  
        (5, 105, 5, Spring, 2025, C+)
-  Click here to view the solution for the insertion above: [Solution](Data-Manipulation-Language/Solution/insertion.sql)
+  Click here to view the solution for the insertion above: [Solution](Data-Manipulation-Language/University-Database/Solution)
   * **7**. Change the phone number of student with SID = 1 to ’555-1111’.
-    * [Solution](Data-Manipulation-Language/Solution/exercise7.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise7.sql)
   * **8**. Update the city of the student with SID = 3 to ’Boston’.
-    * [Solution](Data-Manipulation-Language/Solution/exercise8.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise8.sql)
   * **9**. Rename the course with CNumber = 101 to ’Advanced Databases’.
-    * [Solution](Data-Manipulation-Language/Solution/exercise9.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise9.sql)
   * **10**. Update the instructor of the section with SecNum = 2 to ’Dr. Miller’.
-    * [Solution](Data-Manipulation-Language/Solution/exercise10.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise10.sql)
   * **11**. Change the grade of student 4 in course 104 to ’A’.
-    * [Solution](Data-Manipulation-Language/Solution/exercise11.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise11.sql)
   * **12**. Remove the student with SID = 5 from the STUDENT table.
-    * [Solution](Data-Manipulation-Language/Solution/exercise12.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise12.sql)
   * **13**. Delete the course with CNumber = 105 from the COURSE table.
-    * [Solution](Data-Manipulation-Language/Solution/exercise13.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise13.sql)
   * **14**. Remove the section with SecNum = 5 from the SECTION table.
-    * [Solution](Data-Manipulation-Language/Solution/exercise14.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise14.sql)
   * **15**. Delete the grade record of student 2 in course 102 from the STUDENT GRADES table.
-    * [Solution](Data-Manipulation-Language/Solution/exercise15.sql) 
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise15.sql) 
   * **16**. Remove the department ’Electrical Engineering’ from the DEPARTMENT table.
-    * [Solution](Data-Manipulation-Language/Solution/exercise16.sql)
+    * [Solution](Data-Manipulation-Language/University-Database/Solution/exercise16.sql)
