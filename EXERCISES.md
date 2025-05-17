@@ -97,12 +97,21 @@ Normalization exercises help you break down complex data structures into more ma
 
   Please refer to the file below to begin the Exercise.
   * [HR.md](Data-Manipulation-Language/HR-Database/HRDATABASE.md)
+    
+---
 
-* **Exercise 3: Airline Database**
+### 6. Data Query Language
+
+* **Exercise 1: HR Database**
+  
+  Please refer to the file below to begin the Exercise.
+  * [AIRLINE.md](Data-Query-Language/Airline-Database/AIRLINEDATABASE.md)
+
+* **Exercise 2: Airline Database**
 
   Please refer to the file below to begin the Exercise.
-  * [AIRLINE.md](Data-Manipulation-Language/Airline-Database/AIRLINEDATABASE.md)
-    
+  * [HR.md](Data-Query-Language/HR-Database/HRDATABASE.md)
+  
 ---
 
 ## Additional Notes
