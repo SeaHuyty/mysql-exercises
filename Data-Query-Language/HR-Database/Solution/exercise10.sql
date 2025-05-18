@@ -1,0 +1,1 @@
+-- 10. Retrieve all employees sorted by their first name.

@@ -1,0 +1,1 @@
+-- 19. Write a query to find employee whose name contains the pattern 'la'

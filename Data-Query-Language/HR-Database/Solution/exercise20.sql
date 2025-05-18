@@ -1,0 +1,2 @@
+-- 20. Write a query to find employee whose last_name starts with k, ends with o and contains any characters between 
+--      e.g., Kano, Kenjiro, Kentaro.

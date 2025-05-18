@@ -1,0 +1,1 @@
+-- 21. Write a query to display 3 employees start from record number 7 (which is the 8th record)

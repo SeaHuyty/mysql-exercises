@@ -1,0 +1,1 @@
+-- 8. Write SQL statement to retrieve all employee last names in which the third letter of the name is “a”.

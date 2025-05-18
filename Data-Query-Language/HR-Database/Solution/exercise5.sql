@@ -1,0 +1,2 @@
+-- 5. Write SQL statement to retrieve the last names of all employees who have 
+--      both an “a” and an “e” in their last name.

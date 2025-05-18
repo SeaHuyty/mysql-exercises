@@ -1,0 +1,1 @@
+-- 17. Write a query to find employee whose first_name starts with an 'O’

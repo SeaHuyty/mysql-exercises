@@ -1,0 +1,1 @@
+-- 15. Write a query to get any employee who is from department ‘Executive’.

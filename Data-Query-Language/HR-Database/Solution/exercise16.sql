@@ -1,0 +1,1 @@
+-- 16. Write a query to get all employee who is working on department 50, 70, 90.

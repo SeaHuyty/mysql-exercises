@@ -1,0 +1,2 @@
+-- 18. Retrieve all employees sorted by their total salary in descending order, if there are two employees have the same 
+--       total salary, then sort them by first name in ascending order, then by their last name.
