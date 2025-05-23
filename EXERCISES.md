@@ -87,8 +87,7 @@ Normalization exercises help you break down complex data structures into more ma
 * **Exercise 5: Banking System**
 
   Turn the following banking system schema into MySQL script.
-  * [See Exercise](Data-Definition-Language/Sale-Management-System-Schema/image.png)
-  * [Solution](Data-Definition-Language/Sale-Management-System-Schema/solution.sql)
+  * [See Exercise](Data-Definition-Language/Banking-System/BANKINGSYSTEM.md)
 
 ---
 
@@ -114,6 +113,30 @@ Normalization exercises help you break down complex data structures into more ma
   * [AIRLINE.md](Data-Query-Language/Airline-Database/AIRLINEDATABASE.md)
 
 * **Exercise 2: Airline Database**
+
+  Please refer to the file below to begin the Exercise.
+  * [HR.md](Data-Query-Language/HR-Database/HRDATABASE.md)
+  
+---
+
+### 7. Others
+
+* **Function**
+  
+  Please refer to the file below to begin the Exercise.
+  * [AIRLINE.md](Data-Query-Language/Airline-Database/AIRLINEDATABASE.md)
+
+* **Procedure**
+
+  Please refer to the file below to begin the Exercise.
+  * [HR.md](Data-Query-Language/HR-Database/HRDATABASE.md)
+
+* **Trigger**
+  
+  Please refer to the file below to begin the Exercise.
+  * [AIRLINE.md](Data-Query-Language/Airline-Database/AIRLINEDATABASE.md)
+
+* **User and Permission**
 
   Please refer to the file below to begin the Exercise.
   * [HR.md](Data-Query-Language/HR-Database/HRDATABASE.md)
