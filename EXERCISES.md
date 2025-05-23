@@ -83,6 +83,12 @@ Normalization exercises help you break down complex data structures into more ma
   Turn the following sale management system schema into MySQL script.
   * [See Exercise](Data-Definition-Language/Sale-Management-System-Schema/image.png)
   * [Solution](Data-Definition-Language/Sale-Management-System-Schema/solution.sql)
+ 
+* **Exercise 5: Banking System**
+
+  Turn the following banking system schema into MySQL script.
+  * [See Exercise](Data-Definition-Language/Sale-Management-System-Schema/image.png)
+  * [Solution](Data-Definition-Language/Sale-Management-System-Schema/solution.sql)
 
 ---
 
