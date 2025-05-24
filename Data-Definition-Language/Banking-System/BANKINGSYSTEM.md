@@ -67,7 +67,7 @@ Stores customer loan details.
 | `due_date`         | DATE                 | Date when the loan should be paid off |
 | `status`           | VARCHAR(20)          | e.g., 'Approved', 'Ongoing', 'Closed' |
 
-[See Solution](./bankingSystem.sql)
+Click here to [See Solution](./bankingSystem.sql)
 
 ### 5. **Relational Schema**
 

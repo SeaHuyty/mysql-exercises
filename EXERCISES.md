@@ -139,7 +139,7 @@ Normalization exercises help you break down complex data structures into more ma
 * **User and Permission**
 
   Please refer to the file below to begin the Exercise.
-  * [HR.md](Data-Query-Language/HR-Database/HRDATABASE.md)
+  * [USERPERMISSION.md](Others/User-Permission/USER.md)
   
 ---
 
