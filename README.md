@@ -14,6 +14,6 @@ This repository serves both as a personal archive and a resource for others who 
 
 Feel free to fork this repo, add your own exercises, and submit pull requests. Sharing knowledge helps everyone grow!
 
-## License
+---
 
-This project is licensed under the [MIT License](LICENSE).
+<p align="center"><em>If you find this resource helpful, please give it a star ⭐️ and share it with others!</em></p>
